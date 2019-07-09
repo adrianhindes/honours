@@ -60,22 +60,20 @@ The archetypal example is the logistic equation which was constructed by Verhuls
 
 \[\frac{dN}{dt} = rN\left(1-\frac{b}{r}N\right) \]
 
-$N$ is the population, $r$ is the rate of maximum population growth and $K$ the carrying capacity. Although the logistic growth model has a closed form solution - the logistic equation - here we are not interested in solving differential equations. Often it is not possible to find more than a numerical approximation for a differential equation, and the task gets significantly more difficult in higher dimensions with coupled systems. A two-dimensional dynamical system is defined by,
+$N$ is the population, $r$ is the rate of maximum population growth and $K$ the carrying capacity. Although the logistic growth model has a closed form solution - the logistic equation - here we are not interested in solving differential equations. Often it is not possible to find more than a numerical approximation for a differential equation, and the task gets significantly more difficult in higher dimensions with coupled systems with two or more equations. Nevertheless, interesting and important mathematical properties of dynamical systems can be ascertained without a closed-form or numerical solution. To explore the relevant basics, we will briefly discuss a two-dimensional predator-prey model known as the Lotka-Volterra equations.
 
-\begin{eqnarray}
-\frac{dx}{dt} &= f(x,y) \\
-\frac{dy}{dt} &= g(x,y)
-\end{eqnarray}
-
-A famous example is the Lotka-Volterra predator-prey model,
 
 \begin{eqnarray}
 \frac{dx}{dt} &= ax-dxy \\
 \frac{dy}{dt} &= -cy +dbxy
 \end{eqnarray}
 
-Where $x$ is the population of prey, $y$ population of predators, $a$ is the birth 
+Where $x$ is the population of prey, $y$ population of predators. The parameters $a,b,c,d$ describe biological properties of both species, and their dynamics. In particular, $a$ and $d$ are the birth and predation rates for prey, $c$ is the natural mortality rate of predators and $b$ is the growth factor from predation. The most obvious thing to check are fixed points of the system, given by setting the derivatives to zero,
 
+\begin{eqnarray}
+x(a-dy) &= 0\\
+ -y(c -dby) &= 0
+\end{eqnarray}
 
 \section{Bifurcation Theory}
 \label{sec:bifurcationTheory}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.18)  22 JUN 2019 12:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.18)  9 JUL 2019 13:09
 entering extended mode
 **./methodologyDRAFT.tex
 (methodologyDRAFT.tex
@@ -462,33 +462,43 @@ LaTeX Font Info:    Try loading font information for OT1+zplm on input line 57.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
+Underfull \vbox (badness 2538) has occurred while \output is active []
+
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 85.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 78.
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 85.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 78.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 85.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 78.
  [1
 
 
 {C:/Users/hindesa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
- (methodologyDRAFT.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
+LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10.95> not available
+(Font)              Font shape `T1/pplx/m/it' tried instead on input line 93.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
+
+(methodologyDRAFT.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `methodologyDRAFT.out' has not changed.
 (rerunfilecheck)             Checksum: 6A72C0E9CB5C149710BAE19D8966B888;215.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 8562 strings out of 492946
- 130341 string characters out of 3135453
- 226284 words of memory out of 3000000
- 12296 multiletter control sequences out of 15000+200000
- 41268 words of font info for 70 fonts, out of 3000000 for 9000
+ 8564 strings out of 492946
+ 130359 string characters out of 3135453
+ 227284 words of memory out of 3000000
+ 12295 multiletter control sequences out of 15000+200000
+ 44117 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,11n,38p,382b,321s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,11n,38p,512b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
@@ -497,9 +507,9 @@ ation Data/MiKTeX/2.9/fonts/type1/public/fpl/fplbj8a.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palat
 ino/uplri8a.pfb>
-Output written on methodologyDRAFT.pdf (1 page, 82938 bytes).
+Output written on methodologyDRAFT.pdf (2 pages, 88647 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
+ 61 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
